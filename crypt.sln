@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "crypt", "crypt\crypt.vcxproj", "{6680D927-2C6D-4ADD-B021-3B35EB7A397B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ecc", "ecc\ecc.vcxproj", "{5909CA29-5E58-473E-8792-C3150DC5134F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6680D927-2C6D-4ADD-B021-3B35EB7A397B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6680D927-2C6D-4ADD-B021-3B35EB7A397B}.Debug|Win32.Build.0 = Debug|Win32
+		{6680D927-2C6D-4ADD-B021-3B35EB7A397B}.Release|Win32.ActiveCfg = Release|Win32
+		{6680D927-2C6D-4ADD-B021-3B35EB7A397B}.Release|Win32.Build.0 = Release|Win32
+		{5909CA29-5E58-473E-8792-C3150DC5134F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5909CA29-5E58-473E-8792-C3150DC5134F}.Debug|Win32.Build.0 = Debug|Win32
+		{5909CA29-5E58-473E-8792-C3150DC5134F}.Release|Win32.ActiveCfg = Release|Win32
+		{5909CA29-5E58-473E-8792-C3150DC5134F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

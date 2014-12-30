@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="big.cpp" />
+    <ClCompile Include="ecdsa.cpp" />
+    <ClCompile Include="mrxgcd.c" />
+    <ClCompile Include="elliptic.cpp" />
+    <ClCompile Include="mralloc.c" />
+    <ClCompile Include="mrarth0.c" />
+    <ClCompile Include="mrarth1.c" />
+    <ClCompile Include="mrarth2.c" />
+    <ClCompile Include="mrarth3.c" />
+    <ClCompile Include="mrcore.c" />
+    <ClCompile Include="mrcurve.c" />
+    <ClCompile Include="mrgcd.c" />
+    <ClCompile Include="mrio1.c" />
+    <ClCompile Include="mrio2.c" />
+    <ClCompile Include="mrlucas.c" />
+    <ClCompile Include="mrmonty.c" />
+    <ClCompile Include="mrmuldv.c" />
+    <ClCompile Include="mrpower.c" />
+    <ClCompile Include="mrptime.c" />
+    <ClCompile Include="mrrand.c" />
+  </ItemGroup>
+</Project>
